@@ -7,3 +7,6 @@ This repository contains an app that changes the background color. To obtain the
 For this project I used my knowledge of HTML. CSS, and Javascript (DOM, OOP)
 
 
+https://everhelst.github.io/rgb-colors-with-sliders/
+
+
